@@ -10,7 +10,7 @@ The problems mentioned in this repository are taken from the book:
       by Sylvia Moestl Vasilik.
       
 ## Database Info
-All the queries are performed on the Nothwind Database and SQL editor used for performing these queries is Microsoft SQL Server Management Studio.
+All the queries are performed on the Northwind Database and SQL editor used for performing these queries is Microsoft SQL Server Management Studio.
 
 ## Database Acces
 You can find the Northwind Database info and steps to add it to SSMS from this link
